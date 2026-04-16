@@ -29,7 +29,7 @@ Architecting high-availability systems with a focus on enterprise automation, SQ
 | Project | Description | Technical Highlights |
 | :--- | :--- | :--- |
 | **[SIP Context Router](https://github.com/VPritesh/SIP-Router)** | Voice AI integration engine for Asterisk. | Real-time SIP signaling & context switching. |
-| **[Storage Sentinel](https://github.com/VPritesh/Storage-Sentinel)** | Enterprise storage management & monitoring. | PowerShell automation & HA reporting. |
+| **[ArchiveManager](https://github.com/VPritesh/ArchiveManager)** | A high-integrity, Robocopy-powered archival pipeline designed for zero-data-loss storage management. | PowerShell automation & HA reporting. |
 | **[PrivateChat Blazor](https://github.com/VPritesh/PrivateChat)** | Secure, real-time private messaging app. | SignalR, Blazor, and Sovereign architecture. |
 
 ---
